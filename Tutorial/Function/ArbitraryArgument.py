@@ -10,9 +10,9 @@ def add(*args):
         total += arg
     return total
 
-# 2
 print(add(1, 2, 3, 4))
 
+# 2
 def display_name(*args):
     for arg in args:
         print(arg, end=" ")
