@@ -4,7 +4,7 @@
 #   Set      = {} unordered and immutable, but Add/Remove OK, NO duplicates
 
 fruits = ["apple", "orange", "banana", "coconut"]
-#print(dir(fruits))
+print(dir(fruits))
 #print(help(fruits))
 #print(fruits[0])
 #print(len(fruits))
@@ -20,5 +20,5 @@ fruits = ["apple", "orange", "banana", "coconut"]
 #print(fruits.index("coconut"))
 #print(fruits.count("banana"))
 
-for fruit in fruits:
-    print(fruit)
+#for fruit in fruits:
+#    print(fruit)
